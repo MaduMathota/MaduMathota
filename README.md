@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maduranga Mathotaarachchi
 - 👀 I’m interested in Software engineering Area
 - 🌱 I’m currently learning At University Of Moratuwa
-- 💞️ I’m looking to collaborate on ful stack developing Projects
+- 💞️ I’m looking to collaborate on full stack developing Projects
 -
 
 <!---
